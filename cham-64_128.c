@@ -6,7 +6,7 @@ Author : JiHwan Lim
 
 Version : 1.0
 
-Copyright : jhim147605@gmail.com  /  010-4001-1510
+Copyright : jhim147605@gmail.com  /  
 
 Description : implementation of CHAM by C-Language (Reference Code)
 
